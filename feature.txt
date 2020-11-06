@@ -1,2 +1,1 @@
 new awesome feature
-this file was used to test branch merging
